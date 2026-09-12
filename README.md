@@ -1,5 +1,3 @@
-# Unimanage-university management system
-Web-based university course management system for academic administration, course management, enrollment, and reporting.
 # 🎓 UniManage – University Course Management System
 
 A web-based university course management system developed to support academic administration and digital services for students, lecturers, and administrators.
